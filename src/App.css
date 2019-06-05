@@ -31,3 +31,18 @@
   height: 270px;
   overflow-y: scroll;
 }
+#dropdown-item-teacher, 
+#dropdown-item-duration, 
+#dropdown-item-level, 
+#dropdown-item-style,
+#dropdown-item-anatomy{
+  width: 120px;
+}
+#_button{
+  display: inline;
+}
+#filter_button{
+  position: absolute;
+  /* display: inline; */
+
+}
